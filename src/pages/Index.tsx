@@ -3,7 +3,7 @@ import HeroSection from "@/components/HeroSection";
 import PortfolioSection from "@/components/PortfolioSection";
 import VideosSection from "@/components/VideosSection";
 import ServicesSection from "@/components/ServicesSection";
-import BookingSection from "@/components/BookingSection";
+// import BookingSection from "@/components/BookingSection"; ← disabled
 import Footer from "@/components/Footer";
 
 const Index = () => {
@@ -14,7 +14,7 @@ const Index = () => {
       <PortfolioSection />
       <VideosSection />
       <ServicesSection />
-      <BookingSection />
+      {/* <BookingSection /> */}
       <Footer />
     </div>
   );
