@@ -3,7 +3,7 @@ import HeroSection from "@/components/HeroSection";
 import PortfolioSection from "@/components/PortfolioSection";
 import VideosSection from "@/components/VideosSection";
 import ServicesSection from "@/components/ServicesSection";
-// import BookingSection from "@/components/BookingSection"; ← disabled
+import BookingSection from "@/components/BookingSection";
 import Footer from "@/components/Footer";
 
 const Index = () => {
