@@ -166,4 +166,4 @@ const BookingSection = () => {
 };
 
 export default BookingSection;
-export default BookingSection;
+
